@@ -2,6 +2,9 @@ University Project Hub
 
 DEMO URL: - "https://www.canva.com/design/DAGn9y55u38/wSDInpeqTH5TA2j9AP5Iew/edit?utm_content=DAGn9y55u38&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
 
+CODE ACCESS - Step 1 :- Open vidhita_proj.zip
+              Step 2 :- Open Raw
+              Step 3 :- File will be downloaded automatically(Extract it)
 
 The University Project Hub is a Node.js backend application designed to manage university student projects, including data storage, retrieval, and interaction through a RESTful API. It supports scalable development with MongoDB as the primary database and Express.js as the server framework.
 ======================================================================================================================================================================================================================
